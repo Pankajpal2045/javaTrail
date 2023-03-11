@@ -1,11 +1,11 @@
 
 public class ternary {
     public static void main (String []args){
-        // int x=0;
-        // boolean flag =false;
-        // System.out.println("x="+x);
-        // x=flag ? 4:7;
-        // System.out.println("x="+x);
+        int x=0;
+        boolean flag =false;
+        System.out.println("x="+x);
+        x=flag ? 4:7;
+        System.out.println("x="+x);
 
         // int a=15,b=10,c=15,Max;
         // Max=(a>b&&a>c) ?a:(b>c?b:c);
